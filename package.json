@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "node-telegram-bot-api": "^0.66.0",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "vercel": "^35.1.0"
   }
 }
